@@ -2,4 +2,4 @@
 // +k8s:defaulter-gen=TypeMeta
 // +groupName=store.com
 
-package v1
+package v1beta1
